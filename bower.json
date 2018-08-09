@@ -1,0 +1,20 @@
+{
+  "name": "makemad",
+  "description": "Makemad Project",
+  "main": "index.html",
+  "authors": [
+    "Hellobadar"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/hellobadar/makemad",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap4": "^4.1.3"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "makemad",
+  "version": "1.0.0",
+  "description": "Makemad Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellobadar/makemad.git"
+  },
+  "author": "Hellobadar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellobadar/makemad/issues"
+  },
+  "homepage": "https://github.com/hellobadar/makemad#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
